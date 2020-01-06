@@ -1,4 +1,5 @@
 # hello-world
-A repository for learning python
 
-Hi everyone. I am learning how to use Github. It is not so bad!
+I am now learning how to edit the code.
+
+I have changed the previous text and added new text. Pretty cool!
